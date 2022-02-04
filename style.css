@@ -43,26 +43,40 @@ section{
 h2{
     text-align: center;
 }
-.width-single{
+.single{
     
-    border: red;
-    border-left: 5px solid royalblue;
-    border-top: 5px solid royalblue;
-    border-right: 5px solid royalblue;
+    border: red (250, 246, 43);
     box-shadow: 5px 5px 5px royalblue;
-    background-color: white;
+    background-color: white (238, 14, 14);
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
-    width: 27%;
+    width: 370px;
     height: 500px;
     float: left;
-    
+}
+
+.dream{
+    background-image: url("abc/a.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 250px;
+    width: 1000px;
+    border-radius: 50px;
+    margin: 160px 160px 160px 160px;
+     
+}
+.nice{
+    text-align: center;
 }
 
 
-
-
+h4{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
 
 
 
